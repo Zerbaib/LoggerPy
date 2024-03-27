@@ -1,4 +1,5 @@
 log_folder_path = "logs/"
+max_log_files = 10000
 
 
 reset = "\033[0m"
